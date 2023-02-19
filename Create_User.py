@@ -10,9 +10,9 @@ import string
 
 
 # Enter the details of your AAD app registration
-client_id = 'e7bf7836-241a-4750-9682-5306e849d8a4'
+client_id = ''
 client_secret = ''
-directory_id = '5e58722e-83fd-4b8c-b0cf-0c6bd49959a1'
+directory_id = ''
 authority = 'https://login.microsoftonline.com/' + directory_id
 scope = ['https://graph.microsoft.com/.default']
 

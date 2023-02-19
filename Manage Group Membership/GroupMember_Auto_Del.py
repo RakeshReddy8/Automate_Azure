@@ -12,8 +12,8 @@ import sys
 print("Script to add users to 'O365licensing-PowerAppsGuests' security group")
 # You can hard-code the registered app's client ID and tenant ID here,
 # or you can provide them as command-line arguments to this script.
-client_id = '14d82eec-204b-4c2f-b7e8-296a70dab67e'
-tenant_id = '5e58722e-83fd-4b8c-b0cf-0c6bd49959a1'
+client_id = ''
+tenant_id = ''
 
 # Do not modify this variable. It represents the programmatic ID for
 # Azure Databricks along with the default scope of '/.default'.

@@ -6,8 +6,8 @@ from msal import PublicClientApplication
 
 print("Script to invite user to Baker Hughes!")
 
-client_id = '14d82eec-204b-4c2f-b7e8-296a70dab67e'
-tenant_id = '5e58722e-83fd-4b8c-b0cf-0c6bd49959a1'
+client_id = ''
+tenant_id = ''
 
 scopes = ['https://graph.microsoft.com/User.Read.All',
           'https://graph.microsoft.com/User.ReadWrite.All',

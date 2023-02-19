@@ -21,9 +21,9 @@ current_date = now.strftime("%Y-%m-%d")
 current_date_time = now.strftime("%Y-%m-%dT11:30:00Z")
 
 # Enter the details of your AAD app registration
-client_id = '1ab3b084-d747-4617-a347-32448a8de411'
+client_id = ''
 client_secret = ''
-directory_id = 'd584a4b7-b1f2-4714-a578-fd4d43c146a6'
+directory_id = ''
 authority = 'https://login.microsoftonline.com/' + directory_id
 scope = ['https://graph.microsoft.com/.default']
 
