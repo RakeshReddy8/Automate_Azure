@@ -1,6 +1,6 @@
 import ipaddress
 
-# Get input from user
+# Get input ip/subnet from user
 ip_input = input("Enter an IP address and subnet mask in CIDR notation (e.g. 192.168.1.1/29): ")
 
 # Parse the input into an IPv4Network object
